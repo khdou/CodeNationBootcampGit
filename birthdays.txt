@@ -3,8 +3,8 @@ Make sure the dates are sorted
 
 Example:
 September
-8 - Xavi
-25 - Kevin
+12 - Xavi
+14 - Kevin
 
 
 January
@@ -35,4 +35,5 @@ October
 November
 
 December
+6 - Olivia
 31 - Sergio
