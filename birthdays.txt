@@ -2,6 +2,10 @@ Fill in your name and day of the month under the month you were born.
 Make sure the dates are sorted
 
 Example:
+October
+26-Joel
+
+
 September
 8 - Xavi
 25 - Kevin
