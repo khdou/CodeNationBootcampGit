@@ -1,0 +1,39 @@
+Fill in your name and day of the month under the month you were born.
+Make sure the dates are sorted
+
+Example:
+September
+8 - Xavi
+25 - Kevin
+
+
+January
+18 - Karen
+
+February
+
+March
+18 - Sally
+
+April
+
+May
+
+June
+6 - Titan
+8 - Amanda
+
+July
+9 - Andres
+August
+
+September
+
+October
+05 - Nataly
+30 - Melat Tesfay
+
+November
+
+December
+31 - Sergio
